@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "SuperCoach Enhanced",
   "version": "1.0.0",
   "description": "Some of the Supercoach Plus features, free of charge.",
@@ -10,18 +10,15 @@
   "content_scripts": [
     {
       "matches": ["*://*.supercoach.com.au/afl/draft/*"],
-      "js": ["dist/content.js"]
+      "js": ["src/content.ts"]
     }
   ],
-  "background": {
-    "scripts": ["dist/content.js"]
-  },
-  "permissions": [
-    "storage",
+  "host_permissions": [
     "https://www.footywire.com/*",
-    "https://raw.githubusercontent.com/adenj/supercoach-enhanced/master/injuryData.json",
-    "*://*.supercoach.com.au/*"
+    "*://*.supercoach.com.au/*",
+    "https://raw.githubusercontent.com/adenj/supercoach-enhanced/master/injuryData.json"
   ],
+  "permissions": ["storage"],
   "browser_specific_settings": {
     "gecko": {
       "id": "supercoach.enhanced@adenj.com"

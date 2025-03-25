@@ -1,4 +1,4 @@
-import fs from 'node:fs'
+import * as fs from 'node:fs';
 import { JSDOM } from 'jsdom'
 
 const baseUrl = "https://www.footywire.com"
@@ -29,8 +29,6 @@ const formatInjuryData = (html: string) => {
     const teamFullName = teamDiv.textContent?.trim() || '';
     const teamName = teamFullName.replace(/\s*\(\d+.*\)$/, '');
 
-    // Find the table containing player data for this team
-    // The team title is in a td, which is in a tr, which is in a table
     const teamTable = teamDiv.closest('table');
     if (!teamTable) return;
 
