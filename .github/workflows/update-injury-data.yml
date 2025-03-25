@@ -32,8 +32,8 @@ jobs:
       - name: Build TypeScript
         run: pnpm run build
         
-      - name: Run data fetching script
-        run: node dist/index.js
+      - name: Run injury data fetching script
+        run: pnpm run generate-injury-data
         
       - name: Commit and push if changes
         run: |

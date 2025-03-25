@@ -5,18 +5,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node dist/index.js",
-    "build": "tsc"
+    "generate-injury-data": "tsc && node dist/generateInjuryData.js",
+    "build": "tsc",
+    "build:extension": "tsc && web-ext build",
+    "dev": "web-ext run --source-dir=./ --firefox-profile=dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/jsdom": "^21.1.7",
-    "typescript": "^5.8.2"
+    "@types/firefox-webext-browser": "^111.0.1",
+    "@types/node": "^22.13.13",
+    "typescript": "^5.8.2",
+    "web-ext": "^7.11.0"
   },
   "dependencies": {
-    "@types/node": "^22.13.13",
     "jsdom": "^26.0.0"
   }
 }
