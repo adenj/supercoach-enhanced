@@ -1,0 +1,44 @@
+name: Update AFL Injury Data
+
+on:
+  # Run manually from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-injury-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        run: pnpm install
+        
+      - name: Build TypeScript
+        run: pnpm run build
+        # This assumes you have a build script in your package.json
+        # If not, you might need to add: npx tsc
+        
+      - name: Run data fetching script
+        run: node dist/index.js
+        # Assuming TypeScript compiles to dist/index.js
+        # If it compiles to a different path, adjust accordingly
+        
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add injuryData.json
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update injury data - $(date +'%Y-%m-%d')"
+            git push
+          fi
