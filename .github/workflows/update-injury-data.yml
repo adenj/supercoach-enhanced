@@ -10,25 +10,27 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        
+        uses: actions/checkout@v3
+      
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+      
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '20'
+          cache: 'pnpm'
           
       - name: Install dependencies
         run: pnpm install
         
       - name: Build TypeScript
         run: pnpm run build
-        # This assumes you have a build script in your package.json
-        # If not, you might need to add: npx tsc
         
       - name: Run data fetching script
         run: node dist/index.js
-        # Assuming TypeScript compiles to dist/index.js
-        # If it compiles to a different path, adjust accordingly
         
       - name: Commit and push if changes
         run: |
