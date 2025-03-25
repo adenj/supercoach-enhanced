@@ -1,0 +1,940 @@
+{
+  "data": [
+    {
+      "name": "Kieran Strachan",
+      "injury": "Foot",
+      "timeline": "Season",
+      "team": "Adelaide Crows"
+    },
+    {
+      "name": "Brandon Starcevich",
+      "injury": "Head",
+      "timeline": "TBC",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Charlie Cameron",
+      "injury": "Leg/Calf",
+      "timeline": "Test",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Kai Lohmann",
+      "injury": "Ankle",
+      "timeline": "1-2 weeks",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Keidean Coleman",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Lincoln McCarthy",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Luke Lloyd",
+      "injury": "Back",
+      "timeline": "4-5 weeks",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Tom Doedee",
+      "injury": "Knee",
+      "timeline": "3-5 weeks",
+      "team": "Brisbane Lions"
+    },
+    {
+      "name": "Alex Cincotta",
+      "injury": "Hip/Groin",
+      "timeline": "TBC",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Corey Durdin",
+      "injury": "Ankle",
+      "timeline": "1 week",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Elijah Hollands",
+      "injury": "Personal",
+      "timeline": "Indefinite",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Harry O'Farrell",
+      "injury": "Head",
+      "timeline": "1-2 weeks",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Hudson O'Keeffe",
+      "injury": "Hamstring",
+      "timeline": "1 week",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Jagga Smith",
+      "injury": "Knee",
+      "timeline": "Season",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Marc Pittonet",
+      "injury": "Leg/Calf",
+      "timeline": "3-4 weeks",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Matt Carroll",
+      "injury": "Ankle",
+      "timeline": "Test",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Matt Duffy",
+      "injury": "Knee",
+      "timeline": "2-3 weeks",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Nic Newman",
+      "injury": "Knee",
+      "timeline": "Indefinite",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Orazio Fantasia",
+      "injury": "Leg/Calf",
+      "timeline": "3-4 weeks",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Rob Monahan",
+      "injury": "Hip/Groin",
+      "timeline": "1 week",
+      "team": "Carlton Blues"
+    },
+    {
+      "name": "Ash Johnson",
+      "injury": "Leg/Calf",
+      "timeline": "TBC",
+      "team": "Collingwood Magpies"
+    },
+    {
+      "name": "Finlay Macrae",
+      "injury": "Shoulder",
+      "timeline": "2 weeks",
+      "team": "Collingwood Magpies"
+    },
+    {
+      "name": "Harvey Harrison",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Collingwood Magpies"
+    },
+    {
+      "name": "Iliro Smit",
+      "injury": "Throat",
+      "timeline": "Test",
+      "team": "Collingwood Magpies"
+    },
+    {
+      "name": "Oleg Markov",
+      "injury": "Leg/Calf",
+      "timeline": "2 weeks",
+      "team": "Collingwood Magpies"
+    },
+    {
+      "name": "Tom Mitchell",
+      "injury": "Foot",
+      "timeline": "TBC",
+      "team": "Collingwood Magpies"
+    },
+    {
+      "name": "Alwyn Davey",
+      "injury": "Knee",
+      "timeline": "Test",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Darcy Parish",
+      "injury": "Back",
+      "timeline": "1 week",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Jayden Laverde",
+      "injury": "Hip/Groin",
+      "timeline": "1 week",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Jordan Ridley",
+      "injury": "Head",
+      "timeline": "1 week",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Kyle Langford",
+      "injury": "Hamstring",
+      "timeline": "4-6 weeks",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Matt Guelfi",
+      "injury": "Hamstring",
+      "timeline": "7-8 weeks",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Nikolas Cox",
+      "injury": "Head",
+      "timeline": "TBC",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Peter Wright",
+      "injury": "Ankle",
+      "timeline": "3-4 weeks",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Vigo Visentini",
+      "injury": "Suspended",
+      "timeline": "Round 4",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Will Setterfield",
+      "injury": "Hip/Groin",
+      "timeline": "Test",
+      "team": "Essendon Bombers"
+    },
+    {
+      "name": "Charlie Nicholls",
+      "injury": "Back",
+      "timeline": "TBC",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Cooper Simpson",
+      "injury": "Ankle",
+      "timeline": "Test",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Hayden Young",
+      "injury": "Hamstring",
+      "timeline": "2 weeks",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Michael Walters",
+      "injury": "Knee",
+      "timeline": "2-4 weeks",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Odin Jones",
+      "injury": "Back",
+      "timeline": "Season",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Sam Sturt",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Sam Switkowski",
+      "injury": "Hip/Groin",
+      "timeline": "2-3 weeks",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Sean Darcy",
+      "injury": "Ankle",
+      "timeline": "2-3 weeks",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Shai Bolton",
+      "injury": "Leg/Calf",
+      "timeline": "Test",
+      "team": "Fremantle Dockers"
+    },
+    {
+      "name": "Cameron Guthrie",
+      "injury": "Leg/Calf",
+      "timeline": "TBC",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Cillian Burke",
+      "injury": "Knee",
+      "timeline": "Indefinite",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Jacob Molier",
+      "injury": "Hamstring",
+      "timeline": "1-3 weeks",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Jake Kolodjashnij",
+      "injury": "Hip/Groin",
+      "timeline": "2 weeks",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Jed Bews",
+      "injury": "Finger/Thumb",
+      "timeline": "7-11 weeks",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Keighton Matofai-Forbes",
+      "injury": "Managed",
+      "timeline": "3-4 weeks",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Lennox Hoffman",
+      "injury": "Hamstring",
+      "timeline": "1-3 weeks",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Mitchell Edwards",
+      "injury": "Hip/Groin",
+      "timeline": "TBC",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Tanner Bruhn",
+      "injury": "Finger/Thumb",
+      "timeline": "TBC",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Toby Conway",
+      "injury": "Back",
+      "timeline": "TBC",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Xavier Ivisic",
+      "injury": "Ankle",
+      "timeline": "3-5 weeks",
+      "team": "Geelong Cats"
+    },
+    {
+      "name": "Charlie Ballard",
+      "injury": "Knee",
+      "timeline": "Season",
+      "team": "Gold Coast Suns"
+    },
+    {
+      "name": "David Swallow",
+      "injury": "Knee",
+      "timeline": "6 weeks",
+      "team": "Gold Coast Suns"
+    },
+    {
+      "name": "Leo Lombard",
+      "injury": "Shoulder",
+      "timeline": "10 weeks",
+      "team": "Gold Coast Suns"
+    },
+    {
+      "name": "Mac Andrew",
+      "injury": "Chest",
+      "timeline": "Test",
+      "team": "Gold Coast Suns"
+    },
+    {
+      "name": "Sam Flanders",
+      "injury": "Back",
+      "timeline": "Test",
+      "team": "Gold Coast Suns"
+    },
+    {
+      "name": "Brent Daniels",
+      "injury": "Hip/Groin",
+      "timeline": "Test",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Harvey Thomas",
+      "injury": "Suspended",
+      "timeline": "Round 3",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Jack Ough",
+      "injury": "Hip/Groin",
+      "timeline": "Test",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Jake Riccardi",
+      "injury": "Suspended",
+      "timeline": "Round 3",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Jake Stringer",
+      "injury": "Hamstring",
+      "timeline": "Test",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Jesse Hogan",
+      "injury": "Finger/Thumb",
+      "timeline": "Test",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Joseph Fonti",
+      "injury": "Suspended",
+      "timeline": "Round 3",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Josh Fahey",
+      "injury": "Suspended",
+      "timeline": "Round 5",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Kieren Briggs",
+      "injury": "Head",
+      "timeline": "1 week",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Logan Smith",
+      "injury": "Illness",
+      "timeline": "TBC",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Oliver Hannaford",
+      "injury": "Wrist",
+      "timeline": "TBC",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Phoenix Gothard",
+      "injury": "Finger/Thumb",
+      "timeline": "2 weeks",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Ryan Angwin",
+      "injury": "Ankle",
+      "timeline": "3 weeks",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Toby McMullin",
+      "injury": "Suspended",
+      "timeline": "Round 3",
+      "team": "GWS Giants"
+    },
+    {
+      "name": "Calsher Dear",
+      "injury": "Back",
+      "timeline": "TBC",
+      "team": "Hawthorn Hawks"
+    },
+    {
+      "name": "Jack Scrimshaw",
+      "injury": "Suspended",
+      "timeline": "Round 6",
+      "team": "Hawthorn Hawks"
+    },
+    {
+      "name": "James Blanck",
+      "injury": "Knee",
+      "timeline": "3-4 weeks",
+      "team": "Hawthorn Hawks"
+    },
+    {
+      "name": "James Worpel",
+      "injury": "Ankle",
+      "timeline": "2-3 weeks",
+      "team": "Hawthorn Hawks"
+    },
+    {
+      "name": "Mitchell Lewis",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Hawthorn Hawks"
+    },
+    {
+      "name": "Sam Butler",
+      "injury": "Leg/Calf",
+      "timeline": "TBC",
+      "team": "Hawthorn Hawks"
+    },
+    {
+      "name": "Aidan Johnson",
+      "injury": "Suspended",
+      "timeline": "Round 3",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Andy Moniz-Wakefield",
+      "injury": "Knee",
+      "timeline": "Season",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Caleb Windsor",
+      "injury": "Foot",
+      "timeline": "TBC",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Jai Culley",
+      "injury": "Foot",
+      "timeline": "3-4 weeks",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Jake Melksham",
+      "injury": "Hamstring",
+      "timeline": "1 week",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Judd McVee",
+      "injury": "Hamstring",
+      "timeline": "2-3 weeks",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Koltyn Tholstrup",
+      "injury": "Back",
+      "timeline": "3-4 weeks",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Kysaiah Pickett",
+      "injury": "Suspended",
+      "timeline": "Round 4",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Luker Kentfield",
+      "injury": "Illness",
+      "timeline": "4-5 weeks",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Marty Hore",
+      "injury": "Hand",
+      "timeline": "Test",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Shane McAdam",
+      "injury": "Leg/Calf",
+      "timeline": "Season",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Steven May",
+      "injury": "Throat",
+      "timeline": "TBC",
+      "team": "Melbourne Demons"
+    },
+    {
+      "name": "Brayden George",
+      "injury": "Knee",
+      "timeline": "6-7 weeks",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "Callum Coleman-Jones",
+      "injury": "Leg/Calf",
+      "timeline": "8-10 weeks",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "Charlie Comben",
+      "injury": "Foot",
+      "timeline": "Test",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "George Wardlaw",
+      "injury": "Hamstring",
+      "timeline": "3-4 weeks",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "Griffin Logue",
+      "injury": "Hamstring",
+      "timeline": "1-2 weeks",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "Jackson Archer",
+      "injury": "Suspended",
+      "timeline": "Round 5",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "Josh Goater",
+      "injury": "Hamstring",
+      "timeline": "3-4 weeks",
+      "team": "North Melbourne Kangaroos"
+    },
+    {
+      "name": "Brandon Zerk-Thatcher",
+      "injury": "Back",
+      "timeline": "6-8 weeks",
+      "team": "Port Adelaide Power"
+    },
+    {
+      "name": "Todd Marshall",
+      "injury": "Leg/Calf",
+      "timeline": "TBC",
+      "team": "Port Adelaide Power"
+    },
+    {
+      "name": "Tom Anastasopoulos",
+      "injury": "Ankle",
+      "timeline": "3-5 weeks",
+      "team": "Port Adelaide Power"
+    },
+    {
+      "name": "Zak Butters",
+      "injury": "Knee",
+      "timeline": "3-5 weeks",
+      "team": "Port Adelaide Power"
+    },
+    {
+      "name": "Dion Prestia",
+      "injury": "Leg/Calf",
+      "timeline": "2-5 weeks",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Hugo Ralphsmith",
+      "injury": "Hamstring",
+      "timeline": "2-5 weeks",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Jacob Blight",
+      "injury": "Hip/Groin",
+      "timeline": "Test",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Jonty Faull",
+      "injury": "Back",
+      "timeline": "Test",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Josh Gibcus",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Josh Smillie",
+      "injury": "Hamstring",
+      "timeline": "1-2 weeks",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Judson Clarke",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Mykelti Lefau",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Taj Hotton",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Tom Lynch",
+      "injury": "Suspended",
+      "timeline": "Round 3",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Tylar Young",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Richmond Tigers"
+    },
+    {
+      "name": "Alix Tauru",
+      "injury": "Back",
+      "timeline": "3 weeks",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Cooper Sharman",
+      "injury": "Finger/Thumb",
+      "timeline": "1-2 weeks",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Daniel Butler",
+      "injury": "Leg/Calf",
+      "timeline": "2-3 weeks",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Dougal Howard",
+      "injury": "Shoulder",
+      "timeline": "6-7 weeks",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Liam Henry",
+      "injury": "Knee",
+      "timeline": "Test",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Mattaes Phillipou",
+      "injury": "Leg/Calf",
+      "timeline": "6-7 weeks",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Max King",
+      "injury": "Knee",
+      "timeline": "2-3 weeks",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Mitchito Owens",
+      "injury": "Shoulder",
+      "timeline": "Test",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Paddy Dow",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "St Kilda Saints"
+    },
+    {
+      "name": "Aaron Francis",
+      "injury": "Head",
+      "timeline": "Test",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Callum Mills",
+      "injury": "Foot",
+      "timeline": "2-3 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Errol Gulden",
+      "injury": "Ankle",
+      "timeline": "TBC",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Harry Cunningham",
+      "injury": "Foot",
+      "timeline": "2-3 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Indhi Kirk",
+      "injury": "Head",
+      "timeline": "Test",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Jesse Dattoli",
+      "injury": "Back",
+      "timeline": "TBC",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Justin McInerney",
+      "injury": "Suspended",
+      "timeline": "Round 6",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Lewis Melican",
+      "injury": "Hip/Groin",
+      "timeline": "2-3 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Logan McDonald",
+      "injury": "Ankle",
+      "timeline": "2 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Patrick Snell",
+      "injury": "Hamstring",
+      "timeline": "2 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Riak Andrew",
+      "injury": "Shoulder",
+      "timeline": "TBC",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Robbie Fox",
+      "injury": "Leg/Calf",
+      "timeline": "3-4 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Taylor Adams",
+      "injury": "Hamstring",
+      "timeline": "2-3 weeks",
+      "team": "Sydney Swans"
+    },
+    {
+      "name": "Callum Jamieson",
+      "injury": "Ankle",
+      "timeline": "4-6 weeks",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Campbell Chesser",
+      "injury": "Ankle",
+      "timeline": "TBC",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Coen Livingstone",
+      "injury": "Head",
+      "timeline": "1 week",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Dominic Sheed",
+      "injury": "Knee",
+      "timeline": "Season",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Elliot Yeo",
+      "injury": "Ankle",
+      "timeline": "4-6 weeks",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Jack Hutchinson",
+      "injury": "Hamstring",
+      "timeline": "3-4 weeks",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Jake Waterman",
+      "injury": "Leg/Calf",
+      "timeline": "1-2 weeks",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Liam Ryan",
+      "injury": "Hamstring",
+      "timeline": "Test",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Rhett Bazzo",
+      "injury": "Foot",
+      "timeline": "Test",
+      "team": "West Coast Eagles"
+    },
+    {
+      "name": "Adam Treloar",
+      "injury": "Leg/Calf",
+      "timeline": "3-5 weeks",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Anthony Scott",
+      "injury": "Knee",
+      "timeline": "2-4 weeks",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Cody Weightman",
+      "injury": "Knee",
+      "timeline": "Indefinite",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "James O'Donnell",
+      "injury": "Jaw",
+      "timeline": "Test",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Jason Johannisen",
+      "injury": "Hamstring",
+      "timeline": "6-8 weeks",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Lachie Jaques",
+      "injury": "Thigh",
+      "timeline": "3-5 weeks",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Liam Jones",
+      "injury": "Hamstring",
+      "timeline": "1-3 weeks",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Luke Cleary",
+      "injury": "Head",
+      "timeline": "TBC",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Marcus Bontempelli",
+      "injury": "Leg/Calf",
+      "timeline": "4-6 weeks",
+      "team": "Western Bulldogs"
+    },
+    {
+      "name": "Riley Garcia",
+      "injury": "Knee",
+      "timeline": "TBC",
+      "team": "Western Bulldogs"
+    }
+  ]
+}
