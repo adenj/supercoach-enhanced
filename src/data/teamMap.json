@@ -1,0 +1,218 @@
+{
+  "1": {
+    "id": 1,
+    "abbrev": "ADE",
+    "name": "Adelaide",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "2": {
+    "id": 2,
+    "abbrev": "BRL",
+    "name": "Brisbane",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "3": {
+    "id": 3,
+    "abbrev": "CAR",
+    "name": "Carlton",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "4": {
+    "id": 4,
+    "abbrev": "COL",
+    "name": "Collingwood",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "5": {
+    "id": 5,
+    "abbrev": "ESS",
+    "name": "Essendon",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "6": {
+    "id": 6,
+    "abbrev": "FRE",
+    "name": "Fremantle",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "7": {
+    "id": 7,
+    "abbrev": "GEE",
+    "name": "Geelong",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "8": {
+    "id": 8,
+    "abbrev": "HAW",
+    "name": "Hawthorn",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "9": {
+    "id": 9,
+    "abbrev": "NTH",
+    "name": "North Melbourne",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "10": {
+    "id": 10,
+    "abbrev": "MEL",
+    "name": "Melbourne",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "11": {
+    "id": 11,
+    "abbrev": "PTA",
+    "name": "Port Adelaide",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "12": {
+    "id": 12,
+    "abbrev": "RIC",
+    "name": "Richmond",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "13": {
+    "id": 13,
+    "abbrev": "STK",
+    "name": "St Kilda",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "14": {
+    "id": 14,
+    "abbrev": "SYD",
+    "name": "Sydney",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "15": {
+    "id": 15,
+    "abbrev": "WBD",
+    "name": "Western Bulldogs",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "16": {
+    "id": 16,
+    "abbrev": "WCE",
+    "name": "West Coast",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "17": {
+    "id": 17,
+    "abbrev": "GCS",
+    "name": "Gold Coast",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  },
+  "18": {
+    "id": 18,
+    "abbrev": "GWS",
+    "name": "GWS Giants",
+    "competition": {
+      "id": 1,
+      "season": null,
+      "abbrev": "afl",
+      "name": "AFL",
+      "long_name": "Australian Football League"
+    }
+  }
+}

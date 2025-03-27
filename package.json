@@ -5,7 +5,9 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "generate-injury-data": "tsc src/generateInjuryData.ts --module ES2020 --moduleResolution node --outDir ./dist && node dist/generateInjuryData.js",
+    "generate:teams": "tsc src/utils/generateTeamMap.ts --module ES2020 --moduleResolution node --outDir ./dist && node dist/generateTeamMap.js",
+    "generate:injuries": "tsc src/utils/generateInjuryData.ts --module ES2020 --moduleResolution node --outDir ./dist && node dist/generateInjuryData.js",
+    "generate:players": "tsc src/utils/generatePlayerMap.ts --module ES2020 --moduleResolution node --outDir ./dist && node dist/generatePlayerMap.js",
     "start": "node dist/index.js",
     "build": "vite build",
     "dev": "vite build --watch",

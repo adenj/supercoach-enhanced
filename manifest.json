@@ -9,6 +9,11 @@
   },
   "content_scripts": [
     {
+      "matches": ["*://*.supercoach.com.au/afl/*"],
+      "js": ["src/utils/xhrInterceptor.ts"],
+      "run_at": "document_start"
+    },
+    {
       "matches": ["*://*.supercoach.com.au/afl/draft/*"],
       "js": ["src/content.ts"]
     }

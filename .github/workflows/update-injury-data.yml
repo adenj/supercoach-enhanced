@@ -33,7 +33,7 @@ jobs:
         run: pnpm run build
         
       - name: Run injury data fetching script
-        run: pnpm run generate-injury-data
+        run: pnpm run generate:injuries
         
       - name: Commit and push if changes
         run: |
