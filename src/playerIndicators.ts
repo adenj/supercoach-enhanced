@@ -16,7 +16,6 @@ const fetchInjuryData = async (): Promise<InjuryData | null> => {
     const response = await fetch(injuryListUrl);
     const data: InjuryData = await response.json();
 
-    console.log('Successfully fetched injury data');
     return data;
   } catch (error) {
     console.error('Error fetching injury data:', error);
@@ -41,8 +40,6 @@ const highlightInjuredPlayers = (injuryData: InjuryData) => {
     const exactMatch = injuryData.data.find(p => p.name.toLowerCase() === name.toLowerCase());
 
     if (exactMatch) {
-      console.log(`Marking injured player: ${name}: ${exactMatch.injury} (${exactMatch.timeline})`);
-
       playerTile.style.background = '#d61414';
       playerTile.style.borderRadius = '6px';
 
@@ -57,7 +54,8 @@ const highlightInjuredPlayers = (injuryData: InjuryData) => {
         statusElement.title = tooltipText;
 
         statusElement.style.fontSize = '1.2em';
-        statusElement.style.cursor = 'help';
+        statusElement.style.cursor = 'pointer';
+        statusElement.style.margin = "4px 4px 4px auto";
       }
 
       playerTile.dataset.injuryProcessed = 'true';

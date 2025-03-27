@@ -63,5 +63,5 @@ const formatInjuryData = (html: string) => {
 (async () => {
   const html = await fetchInjuryHtml();
   const injuryData = await formatInjuryData(html);
-  fs.writeFileSync('injuryData.json', JSON.stringify(injuryData, null, 2));
+  fs.writeFileSync('src/data/injuryData.json', JSON.stringify(injuryData, null, 2));
 })()
