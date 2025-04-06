@@ -1,5 +1,5 @@
 // Player indicators functionality
-const injuryListUrl = "https://raw.githubusercontent.com/adenj/supercoach-enhanced/master/injuryData.json";
+const injuryListUrl = "https://raw.githubusercontent.com/adenj/supercoach-enhanced/master/src/data/injuryData.json";
 
 
 interface InjuryData {
