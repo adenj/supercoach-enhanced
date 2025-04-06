@@ -21,12 +21,12 @@
   "host_permissions": [
     "https://www.footywire.com/*",
     "*://*.supercoach.com.au/*",
-    "https://raw.githubusercontent.com/adenj/supercoach-enhanced/master/injuryData.json"
+    "https://raw.githubusercontent.com/adenj/supercoach-enhanced/master/src/data/injuryData.json"
   ],
   "permissions": ["storage"],
   "browser_specific_settings": {
     "gecko": {
-      "id": "supercoach.enhanced@adenj.com"
+      "id": "supercoachenhanced@adenj.com"
     }
   }
 }
