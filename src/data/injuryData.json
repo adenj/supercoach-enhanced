@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "Izak Rankine",
-      "injury": "Leg/Calf",
-      "timeline": "Test",
-      "team": "Adelaide Crows"
-    },
-    {
       "name": "Josh Rachele",
       "injury": "Ribs",
       "timeline": "3-5 weeks",
@@ -411,7 +405,7 @@
     {
       "name": "Calsher Dear",
       "injury": "Back",
-      "timeline": "TBC",
+      "timeline": "2 weeks",
       "team": "Hawthorn Hawks"
     },
     {
@@ -441,13 +435,13 @@
     {
       "name": "Mitchell Lewis",
       "injury": "Knee",
-      "timeline": "TBC",
+      "timeline": "8-10 weeks",
       "team": "Hawthorn Hawks"
     },
     {
       "name": "Sam Butler",
       "injury": "Leg/Calf",
-      "timeline": "TBC",
+      "timeline": "Test",
       "team": "Hawthorn Hawks"
     },
     {
