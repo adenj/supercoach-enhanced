@@ -19,12 +19,6 @@
       "team": "Adelaide Crows"
     },
     {
-      "name": "Nick Murray",
-      "injury": "Knee",
-      "timeline": "Test",
-      "team": "Adelaide Crows"
-    },
-    {
       "name": "Toby Murray",
       "injury": "Ankle",
       "timeline": "3-4 months",
@@ -313,12 +307,6 @@
       "team": "Gold Coast Suns"
     },
     {
-      "name": "Connor Budarick",
-      "injury": "Ribs",
-      "timeline": "Test",
-      "team": "Gold Coast Suns"
-    },
-    {
       "name": "David Swallow",
       "injury": "Knee",
       "timeline": "1-3 weeks",
@@ -376,18 +364,6 @@
       "name": "Calsher Dear",
       "injury": "Back",
       "timeline": "1 week",
-      "team": "Hawthorn Hawks"
-    },
-    {
-      "name": "Connor MacDonald",
-      "injury": "Ankle",
-      "timeline": "Test",
-      "team": "Hawthorn Hawks"
-    },
-    {
-      "name": "Conor Nash",
-      "injury": "Wrist",
-      "timeline": "Test",
       "team": "Hawthorn Hawks"
     },
     {
@@ -481,12 +457,6 @@
       "team": "Port Adelaide Power"
     },
     {
-      "name": "Miles Bergman",
-      "injury": "Knee",
-      "timeline": "Test",
-      "team": "Port Adelaide Power"
-    },
-    {
       "name": "Ryan Burton",
       "injury": "Hip/Groin",
       "timeline": "1-2 weeks",
@@ -544,12 +514,6 @@
       "name": "Rhyan Mansell",
       "injury": "Shoulder",
       "timeline": "Round 7",
-      "team": "Richmond Tigers"
-    },
-    {
-      "name": "Sam Lalor",
-      "injury": "Hip/Groin",
-      "timeline": "Test",
       "team": "Richmond Tigers"
     },
     {
@@ -703,12 +667,6 @@
       "team": "West Coast Eagles"
     },
     {
-      "name": "Jeremy McGovern",
-      "injury": "Hip/Groin",
-      "timeline": "Test",
-      "team": "West Coast Eagles"
-    },
-    {
       "name": "Adam Treloar",
       "injury": "Leg/Calf",
       "timeline": "2-4 weeks",
@@ -736,12 +694,6 @@
       "name": "Laitham Vandermeer",
       "injury": "Knee",
       "timeline": "2-4 weeks",
-      "team": "Western Bulldogs"
-    },
-    {
-      "name": "Marcus Bontempelli",
-      "injury": "Leg/Calf",
-      "timeline": "Test",
       "team": "Western Bulldogs"
     },
     {
